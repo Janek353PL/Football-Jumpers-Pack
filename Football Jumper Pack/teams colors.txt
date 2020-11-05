@@ -1,0 +1,38 @@
+===Premier League (anglia1)===
+Manchester City (008899; FFFFFF; 008899; FFFFFF; 008899; EE0000)
+Manchester United (c70c0c; c70c0c; bdba13; bdba13; c70c0c; c70c0c)
+Chelsea (ffffff; 0a2b80; 0a2b80; 0a2b80; 0a2b80; 820707)
+Liverpool (12a655; b50e0e; b50e0e; b50e0e; ffffff; 12a655)
+Totenham (ffffff; 102361; 102361; 102361; 102361; 102361)
+Wolves (b5841b; b5841b; ffffff; b5841b; ffffff; b5841b)
+Everton (0a4fcf; ffffff; 0a4fcf; 0a4fcf; 0a4fcf; 0a4fcf)
+Leicester (113f96; c29e10; c29e10; ffffff; ffffff; 113f96)
+
+===La Liga (hiszpania1)===
+Atletico Madryt (241d73; b01a2c; ffffff; b01a2c; ffffff; 241d73)
+Barcelona (bab709; 09316e; 800808; 09316e; 800808; bab709)
+Real Madryt (998803; ffffff; ffffff; ffffff; ffffff; 998803)
+Real Sociedad (cc7c0c; 0a4f94; 0a4f94; ffffff; ffffff; cc7c0c)
+Sevilla (7b8217; ffffff; cc1d1d; ffffff; cc1d1d; cc1d1d)
+
+===Bundesliga (niemiecka1)===
+Bayern Monachium (ffffff; ab0505; ab0505; ab0505; ab0505; 1398d6)
+Herta Berlin (ffffff; 095c96; ffffff; 095c96; ffffff; 095c96)
+Borusia Dortmund (b3ae37; 000000; 000000; b3ae37; b3ae37; b3ae37)
+Hoffenheim (000000; 094dad; ffffff; ffffff; 094dad; 000000)
+
+===Ligue (francja1)===
+PSG (ffffff; 0c309c; 0c309c; 0c309c; 0c309c; a30d0d)
+
+===Seria A (włochy1)===
+Juventus (ffffff; 000000; 000000; 000000; 000000; ffffff)
+Inter Mediolan (0000EE; FFFFFF; FFFFFF; 9e9c37; 000000; 000000)
+Napoli (ffffff; 0b8fbf; 0b8fbf; 0b8fbf; 0b8fbf; ffffff)
+Lazio (a8a314; ffffff; ffffff; 11b3c2; 11b3c2; 11b3c2)
+Atalanta (ffffff; 000000; 1e73b0; 000000; 1e73b0; ffffff)
+
+===Premier Liga (rosyjska1)===
+Lokomotiv Moskwa (a60d0d; 0a6635; ffffff; 0a6635; ffffff; a60d0d)
+
+===Eredevisie (holenderska1)===
+Ajax (ffffff; db5142; db5142; db5142; db5142; ffffff)

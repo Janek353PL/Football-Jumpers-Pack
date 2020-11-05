@@ -1,0 +1,29 @@
+=======================================================================
+
+ENGLISCH
+
+Pack instalation:
+1. Open folder "Football Jumper Pack".
+2. Copy folder "Open Ski Jumping_Data".
+3. Paste it in your Open Ski Jumping folder.
+
+Restore default files:
+1. Open folder "Default".
+2. Copy folder "Open Ski Jumping_Data".
+3. Paste it in your Open Ski Jumping folder.
+
+=======================================================================
+
+POLSKI
+
+Instalacja paczki:
+1. Otwórz folder folder "Football Jumper Pack".
+2. Skopiuj folder "Open Ski Jumping_Data".
+3. Wklej go do twojego folderu z Open Ski Jumping.
+
+Przywracanie domyślnych plików:
+1. Otwórz folder folder "Default".
+2. Skopiuj folder "Open Ski Jumping_Data".
+3. Wklej go do twojego folderu z Open Ski Jumping.
+
+=======================================================================
